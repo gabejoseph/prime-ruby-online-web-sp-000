@@ -1,1 +1,2 @@
-prime()
+def prime(x)
+end
